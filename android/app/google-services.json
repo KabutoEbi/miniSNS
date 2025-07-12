@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75035321357",
+    "project_id": "minisns-dc0cd",
+    "storage_bucket": "minisns-dc0cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75035321357:android:763ad585b30e68de13a144",
+        "android_client_info": {
+          "package_name": "com.example.minisns"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEnxH113Dsu8Fmc50C-TFcr5T2VvzEY04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
